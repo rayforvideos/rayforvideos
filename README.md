@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-light.svg" alt="ray — frontend &amp; devtools engineer in seoul" width="100%">
+  <img src="assets/header-light.svg" alt="Ray — frontend &amp; devtools engineer in south korea 🇰🇷" width="100%">
 </picture>
 
 <p>
@@ -19,8 +19,7 @@
 
 <br>
 
-TypeScript and React most days. Swift when something belongs on the Mac
-rather than in a tab, and I ship those through my own homebrew tap.
+TypeScript and React most days.
 
 What I keep coming back to is the layer underneath the product — profilers,
 build tooling, anything that shortens the gap between changing a line and
