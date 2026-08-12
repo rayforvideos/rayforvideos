@@ -26,3 +26,14 @@ once, badly, before trusting a library to do it for me.
 Right now that habit is pointed at AI agents. Mostly failed attempts so far, which is the useful part.
 
 Based in South korea 🇰🇷. I write things down at [raybook](https://raybook.astro-ninza.com/).
+
+<br>
+
+평소에는 TypeScript와 React로 개발합니다.
+
+세상에 나오는 라이브러리와 프레임워크 및 기술들에 관심이 많습니다. 프로파일러, 빌드 도구 등등.. 
+저는 뭔가를 배울 때 라이브러리에 맡기기 전에 일단 한 번 직접 무엇이든 엉성하게 만들어보는 편입니다.
+
+요즘은 그 습관이 AI 에이전트를 향해 있습니다. 지금까지는 대부분 실패했습니다. 실패하는 게 쓸모 있는 부분이고요.
+
+한국에 살고 있습니다 🇰🇷. 여러가지 생각을 [raybook](https://raybook.astro-ninza.com/)에 쓰고 있습니다.
