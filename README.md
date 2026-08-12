@@ -14,9 +14,6 @@
 
 </div>
 
-<details>
-<summary><b>&nbsp;a bit more</b></summary>
-
 <br>
 
 TypeScript and React most days.
@@ -29,5 +26,3 @@ once, badly, before trusting a library to do it for me.
 Right now that habit is pointed at AI agents. Mostly failed attempts so far, which is the useful part.
 
 Based in South korea 🇰🇷. I write things down at [raybook](https://raybook.astro-ninza.com/).
-
-</details>
