@@ -26,6 +26,8 @@ build tooling, anything that shortens the gap between changing a line and
 seeing what it did. I tend to learn a thing by rebuilding it from scratch
 once, badly, before trusting a library to do it for me.
 
+Right now that habit is pointed at AI agents. Mostly failed attempts so far, which is the useful part.
+
 Based in South korea 🇰🇷. I write things down at [raybook](https://raybook.astro-ninza.com/).
 
 </details>
