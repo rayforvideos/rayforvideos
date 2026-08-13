@@ -14,7 +14,7 @@
 
 </div>
 
-<br>
+<hr/>
 
 TypeScript and React most days.
 
