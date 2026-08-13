@@ -28,6 +28,7 @@ Right now that habit is pointed at AI agents. Mostly failed attempts so far, whi
 Based in South korea 🇰🇷. I write things down at [raybook](https://raybook.astro-ninza.com/).
 
 <br>
+<hr/>
 
 평소에는 TypeScript와 React로 개발합니다.
 
